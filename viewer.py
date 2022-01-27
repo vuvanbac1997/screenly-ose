@@ -43,7 +43,7 @@ INITIALIZED_FILE = '/.screenly/initialized'
 BLACK_PAGE = '/tmp/screenly_html/black_page.html'
 WATCHDOG_PATH = '/tmp/screenly.watchdog'
 SCREENLY_HTML = '/tmp/screenly_html/'
-LOAD_SCREEN = '/screenly/static/img/loading.png'  # relative to $HOME
+LOAD_SCREEN = '/screenly/static/img/hinori/loading.jpg'  # relative to $HOME
 UZBLRC = '/.config/uzbl/config-screenly'  # relative to $HOME
 INTRO = '/screenly/intro-template.html'
 
